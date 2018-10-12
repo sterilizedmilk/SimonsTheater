@@ -1,4 +1,4 @@
-package com.simons.theater;
+package com.simons;
 
 import java.text.DateFormat;
 import java.util.Date;
